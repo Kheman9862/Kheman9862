@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## 🔭 Web Developer [![HitCount](http://hits.dwyl.com/kheman9862/kheman9862.svg)](http://hits.dwyl.com/kheman9862/kheman9862)
+
+` 😄 Kheman Garg` |  `🌱 Rochester, USA` | <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> `https://www.linkedin.com/in/kheman-garg-9a4170106/`
+
 <!--
 **Kheman9862/Kheman9862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
