@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-A seasoned and creative web developer with 4+ years which includes 1 year of work experience of experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
+A seasoned and creative web developer with 4+ years of experience which includes 1 year of work experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
 
 ## Key skills
 
@@ -17,7 +17,8 @@ A seasoned and creative web developer with 4+ years which includes 1 year of wor
   <img src="https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
   <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-3fedff" />  
   <img src="https://img.shields.io/badge/javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f99f03" /> 
-  <img src="https://img.shields.io/badge/ReactJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-01d9ff" /> 
+  <img src="https://img.shields.io/badge/ReactJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-01d9ff" />
+  <img src="https://img.shields.io/badge/React-Native-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-01d9ff" /> 
   <img src="https://img.shields.io/badge/VueJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" /> 
   <img src="https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-5466b6" /> 
   <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
@@ -65,7 +66,7 @@ A seasoned and creative web developer with 4+ years which includes 1 year of wor
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded-1 mr-3" width="64" height="64" alt="php">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="64" height="64" alt="sql">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" class="rounded-1 mr-3" width="64" height="64" alt="webpack">
-
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" class="rounded-1 mr-3" width="64" height="64" alt="react-native">
 
 ### I am really glad to see you here !
 Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=kheman9862.visitor-badge)](https://github.com/kheman9862) since i added this profile <br>
