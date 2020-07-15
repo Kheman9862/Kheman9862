@@ -36,7 +36,7 @@ A seasoned and creative web developer with 4+ years which includes 1 year of wor
    <img src="https://img.shields.io/badge/Tabular-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f8517c" /> 
 </p>
 
-- 🔭 I have been working on :
+### 🔭 I have been working on :
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
@@ -47,11 +47,9 @@ A seasoned and creative web developer with 4+ years which includes 1 year of wor
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="64" height="64" alt="redux logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/algolia/algolia.png" class="rounded-1 mr-3" width="64" height="64" alt="algolia">
  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" class="rounded-1 mr-3" width="64" height="64" alt="aws">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite/sqlite.png" class="rounded-1 mr-3" width="64" height="64" alt="sqlite">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" class="rounded-1 mr-3" width="64" height="64" alt="mongodb">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" class="rounded-1 mr-3" width="64" height="64" alt="mongoose">
  <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" class="rounded-1 mr-3" width="64" height="64" alt="babel">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jwt/jwt.png" class="rounded-1 mr-3" width="64" height="64" alt="jwt">
  <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" class="rounded-1 mr-3" width="64" height="64" alt="dotnet">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" class="rounded-1 mr-3" width="64" height="64" alt="es6">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" class="rounded-1 mr-3" width="64" height="64" alt="eslint">
