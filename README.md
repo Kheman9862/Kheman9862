@@ -67,6 +67,12 @@ A seasoned and creative web developer with 4+ years which includes 1 year of wor
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" class="rounded-1 mr-3" width="64" height="64" alt="webpack">
 
 
+### I am really glad to see you here !
+Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=kheman9862.visitor-badge)](https://github.com/kheman9862) since i added this profile <br>
+The green dots on my [**GitHub** profile](https://github.com/kheman9862=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+
+Thank you 🙏 😊  
+
 
 <!--
 **Kheman9862/Kheman9862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
