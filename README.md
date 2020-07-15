@@ -69,7 +69,7 @@ A seasoned and creative web developer with 4+ years which includes 1 year of wor
 
 ### I am really glad to see you here !
 Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=kheman9862.visitor-badge)](https://github.com/kheman9862) since i added this profile <br>
-The green dots on my [**GitHub** profile](https://github.com/kheman9862=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+The green dots on my [**GitHub** profile](https://github.com/Kheman9862) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊  
 
