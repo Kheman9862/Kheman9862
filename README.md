@@ -1,10 +1,10 @@
-## 🔭 Web Developer 
+## 🔭 Software Developer 
 
 ` 😄 Kheman Garg` |  `🌱 Rochester, USA` | <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/kheman-garg-9a4170106/`
 
 ### Hi there 👋
 
-A seasoned and creative web developer with 4+ years of experience which includes 2 year of work experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
+A seasoned and creative web developer with 4+ years of experience which includes 2 years of work experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
 
 ## Key skills
 
