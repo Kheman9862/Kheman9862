@@ -1,6 +1,6 @@
 ## 🔭 Software Developer 
 
-` 😄 Kheman Garg` |  `🌱 Rochester, USA` | <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/kheman-garg-9a4170106/`
+` 😄 Kheman Garg` |  `🌱 Rochester, USA` | <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/khemangarg/`
 
 ### Hi there 👋
 
