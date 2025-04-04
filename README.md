@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-A seasoned and creative software Engineer with 4+ years of experience which includes 6 years of work experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
+A seasoned and creative software Engineer with 6+ years of experience which includes 6 years of work experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
 
 ## Key skills
 
